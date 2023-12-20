@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
   s.description      = <<-DESC
 Complement of Awesome Notifications to allow firebase with all awesome resources in Flutter.
                        DESC
-  s.homepage         = 'https://github.com/rafaelsetragni/awesome_notifications_fcm'
+  s.homepage         = 'https://github.com/bitforge/awesome_notifications_fcm'
   s.license          = { :file => '../LICENSE' }
   s.author           = { 'Rafael Setragni' => 'rafaelsetra@gmail.com' }
   s.source           = { :path => '.' }
